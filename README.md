@@ -1,4 +1,4 @@
-# ErenBilgi_22095022_B-L458_HW1
+# ErenBilgi_22240085_BİL458_HW1
 
 # Vowel Consonant Checker
 
